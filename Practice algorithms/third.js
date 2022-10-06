@@ -28,8 +28,8 @@ function addingAySecond(string) {
 console.log(addingAySecond('hola que nice !'));
 
 /* THINGS TO REMEMBER:
-SLICE is a STRING METHOD
-SLICE(start, end) start is for default 0 so slice(1) 'slices' the string form 0 to 1 
-SPLIT(' ') is a STRING METHOD that transforms strings array diving string acording to parameter
+
+SLICE(start, end) is a STRING METHOD start is for default 0 so slice(1) 'slices' the string form 0 to 1 
+SPLIT(' ') is a STRING METHOD that transforms a string into array diving string acording to parameter
 SPLICE('', '', '') is an ARRAY METHOD for removing, adding or editing elements in array 
 */
