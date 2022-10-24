@@ -1,12 +1,9 @@
-Practice some simple algorithms from code wars and hackerrank!
+Are you a full stack web developer wanting to learn and practice algorithms?
 
-Usage recomendation:
+Here there are a collection of simple excercises to help you warm up and practice array based algotihms mostly on plain JavaScript.
 
-IMHO, is better to practice knowing how the code is working exactly.
+If you used Hackerrank or CodeWars here are some very simple beginner friendly solutions to consider.
 
-Download code runner extension to see console.logs in terminal.
-Once installed right click in file and then run code to see outputs.
-
-Hope this helps you get better at problem solving.
+Recomendations: download coderunner to see console.logs on terminal!
 
 Enjoy!
