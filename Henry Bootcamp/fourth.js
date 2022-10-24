@@ -5,7 +5,7 @@ function validation(check) {
 		return true;
 	}
 
-	const replacement = check.replace(/\(\)/gi, '');
+	const replacement = check.replace(/\(\)/gi, ''); //caso de corte
 
 	if (replacement === check) {
 		return false;
